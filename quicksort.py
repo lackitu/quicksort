@@ -32,7 +32,10 @@ quickSort(data, 0, size - 1)
 print('Sorted Array in Ascending Order: ')
 print(data)
 
-#Quicksort is a popilar sorting algorithm that uses a divide-and-conquer strategy to effciently sort elements. It works by selecting a "pivot" element from the aray, partitioning the other elements into two sub-arrays based on whether they are less than or greater than the pivor, and then recursively sorting the sub-arrays. Its average time complexity is O(n log n), making it faster than manu other sorting algorithms for large datasets
+#Quicksort is a popular sorting algorithm that uses a divide-and-conquer strategy to effciently sort elements. 
+#It works by selecting a "pivot" element from the aray, 
+#Partitioning the other elements into two sub-arrays based on whether they are less than or greater than the pivor, and then recursively sorting the sub-arrays. 
+#Its average time complexity is O(n log n), making it faster than manu other sorting algorithms for large datasets.
 #This is a simple example of course but can be used in bigger projects
 #            +-------------------+
 #            |    QuickSort      |
